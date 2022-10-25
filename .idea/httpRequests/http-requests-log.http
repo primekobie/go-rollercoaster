@@ -1,0 +1,336 @@
+GET http://localhost:8080/coasters/1666696449371757400
+Accept: application/json
+
+###
+
+GET http://localhost:8080/coasters/1666696449371757400
+Accept: application/json
+
+###
+
+GET http://localhost:8080/coasters/random
+Accept: application/json
+
+<> 2022-10-25T121905.200.json
+
+###
+
+GET http://localhost:8080/coasters
+Accept: application/json
+
+<> 2022-10-25T121858.200.json
+
+###
+
+POST http://localhost:8080/coasters
+Content-Type: application/json
+
+{"name":  "Blabo", "inPark":  "Bitchland", "height":  30, "manufacturer":  "Fiend "}
+
+###
+
+POST http://localhost:8080/coasters
+Content-Type: application/json
+
+{"name":  "Blabo", "inPark":  "Bitchland", "height":  30, "manufacturer":  "Fiend "}
+
+###
+
+POST http://localhost:8080/coasters
+Content-Type: application/json
+
+{"name":  "Blabo", "inPark":  "Bitchland", "height":  30, "manufacturer":  "Fiend "}
+
+###
+
+POST http://localhost:8080/coasters
+Content-Type: application/json
+
+{"name":  "Blabo", "inPark":  "Bitchland", "height":  30, "manufacturer":  "Fiend "}
+
+###
+
+POST http://localhost:8080/coasters
+Content-Type: application/json
+
+{"name":  "Blabo", "inPark":  "Bitchland", "height":  30, "manufacturer":  "Fiend "}
+
+###
+
+POST http://localhost:8080/coasters
+Content-Type: application/json
+
+{"name":  "Blabo", "inPark":  "Bitchland", "height":  30, "manufacturer":  "Fiend "}
+
+###
+
+POST http://localhost:8080/coasters
+Content-Type: application/json
+
+{"name":  "Blabo", "inPark":  "Bitchland", "height":  30, "manufacturer":  "Fiend "}
+
+###
+
+POST http://localhost:8080/coasters
+Content-Type: application/json
+
+{"name":  "Blabo", "inPark":  "Bitchland", "height":  30, "manufacturer":  "Fiend "}
+
+###
+
+GET http://localhost:8080/coasters
+Accept: application/json
+
+<> 2022-10-25T121219.200.json
+
+###
+
+GET http://localhost:8080/coasters/random
+Accept: application/json
+
+###
+
+GET http://localhost:8080/coasters/random
+Accept: application/json
+
+###
+
+GET http://localhost:8080/coasters
+Accept: application/json
+
+<> 2022-10-25T121154.200.json
+
+###
+
+GET http://localhost:8080/coasters
+Accept: application/json
+
+<> 2022-10-25T121153.200.json
+
+###
+
+GET http://localhost:8080/coasters/1666696449371757400
+Accept: application/json
+
+###
+
+GET http://localhost:8080/coasters/1666696449371757400
+Accept: application/json
+
+###
+
+POST http://localhost:8080/coasters
+Content-Type: application/json
+
+{"name":  "Blabo", "inPark":  "Bitchland", "height":  30, "manufacturer":  "Fiend "}
+
+###
+
+POST http://localhost:8080/coasters
+Content-Type: application/json
+
+{"name":  "Blabo", "inPark":  "Bitchland", "height":  30, "manufacturer":  "Dope "}
+
+###
+
+POST http://localhost:8080/coasters
+Content-Type: application/json
+
+{"name":  "Bravo", "inPark":  "Bitchland", "height":  30, "manufacturer":  "Dope "}
+
+###
+
+POST http://localhost:8080/coasters
+Content-Type: application/json
+
+{"name":  "Bravo", "inPark":  "Bitchland", "height":  30, "manufacturer":  "Dope "}
+
+###
+
+POST http://localhost:8080/coasters
+Content-Type: application/json
+
+{"name":  "Drako", "inPark":  "Bitchland", "height":  30, "manufacturer":  "Dope "}
+
+###
+
+POST http://localhost:8080/coasters
+Content-Type: application/json
+
+{"name":  "Flapo", "inPark":  "Bitchland", "height":  30, "manufacturer":  "Dope "}
+
+###
+
+POST http://localhost:8080/coasters
+Content-Type: application/json
+
+{"name":  "Flapo", "inPark":  "Bitchland", "height":  30, "manufacturer":  "Dope "}
+
+###
+
+GET http://localhost:8080/coasters/1666696449371757400
+Accept: application/json
+
+<> 2022-10-25T112301.200.json
+
+###
+
+GET http://localhost:8080/coasters/1666696449371757400
+Accept: application/json
+
+<> 2022-10-25T112257.200.json
+
+###
+
+GET http://localhost:8080/coasters
+Accept: application/json
+
+<> 2022-10-25T112224.200.json
+
+###
+
+GET http://localhost:8080/coasters/1666696493703943500
+Accept: application/json
+
+<> 2022-10-25T112221.200.json
+
+###
+
+GET http://localhost:8080/coasters/166669649370343500
+Accept: application/json
+
+###
+
+GET http://localhost:8080/coasters
+Accept: application/json
+
+<> 2022-10-25T112146.200.json
+
+###
+
+GET http://localhost:8080/coasters/1666696493703943500
+Accept: application/json
+
+<> 2022-10-25T111530.200.json
+
+###
+
+GET http://localhost:8080/coasters
+Accept: application/json
+
+<> 2022-10-25T111455.200.json
+
+###
+
+POST http://localhost:8080/coasters
+Content-Type: application/json
+
+{"name":  "Flapo", "inPark":  "Bitchland", "height":  30, "manufacturer":  "Dope "}
+
+###
+
+GET http://localhost:8080/coasters
+Accept: application/json
+
+<> 2022-10-25T111447.200.json
+
+###
+
+POST http://localhost:8080/coasters
+Content-Type: application/json
+
+{"name":  "Flapo", "inPark":  "Bitchland", "height":  30, "manufacturer":  "Dope "}
+
+###
+
+GET http://localhost:8080/coasters
+Accept: application/json
+
+<> 2022-10-25T111413.200.json
+
+###
+
+POST http://localhost:8080/coasters
+Content-Type: application/json
+
+{"name":  "Taron", "inPark":  "Phantasialand", "height":  30, "manufacturer":  "Intamin "}
+
+###
+
+GET http://localhost:8080/coasters
+Accept: application/json
+
+<> 2022-10-25T111356.200.json
+
+###
+
+POST http://localhost:8080/coasters
+Content-Type: application/json
+
+{"name":  "Taron", "inPark":  "Phantasialand", "height":  30, "manufacturer":  "Intamin "}
+
+###
+
+GET http://localhost:8080/coasters
+Accept: application/json
+
+<> 2022-10-25T081607.200.json
+
+###
+
+POST http://localhost:8080/coasters
+Content-Type: application/json
+
+{"name":  "Taron", "inPark":  "Phantasialand", "height":  30, "manufacturer":  "Intamin"}
+
+###
+
+GET http://localhost:8080/coasters
+Accept: application/json
+
+<> 2022-10-25T080738.200.json
+
+###
+
+PUT http://localhost:8080/coasters
+Accept: application/json
+
+<> 2022-10-25T080730.405.txt
+
+###
+
+POST http://localhost:8080/coasters
+Content-Type: application/json
+
+{"name":  "Taron", "inPark":  "Phantasialand", "height":  30, "manufacturer":  "Intamin"}
+
+###
+
+PUT http://localhost:8080/coasters
+Accept: application/json
+
+<> 2022-10-23T104513.405.txt
+
+###
+
+POST http://localhost:8080/coasters
+Content-Type: application/json
+
+{}
+
+###
+
+GET http://localhost:8080/coasters
+Accept: application/json
+
+<> 2022-10-23T104434.200.json
+
+###
+
+POST http://localhost:8080/coasters
+Content-Type: application/json
+
+{}
+
+###
+

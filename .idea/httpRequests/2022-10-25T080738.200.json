@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Fury 325",
+    "manufacturer": "B+M",
+    "id": "id1",
+    "inPark": "Carowinds",
+    "height": 99
+  },
+  {
+    "name": "Taron",
+    "manufacturer": "Intamin",
+    "id": "",
+    "inPark": "Phantasialand",
+    "height": 30
+  }
+]

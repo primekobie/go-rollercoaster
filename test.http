@@ -1,0 +1,18 @@
+GET  http://localhost:8080/coasters/random
+Accept: application/json
+
+###
+GET http://localhost:8080/coasters/1666696449371757400
+Accept: application/json
+
+###
+POST http://localhost:8080/coasters
+Content-Type: application/json
+
+{"name":  "Blabo", "inPark":  "Bitchland", "height":  30, "manufacturer":  "Fiend "}
+
+###
+GET http://localhost:8080/coasters
+Accept: application/json
+
+###
